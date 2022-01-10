@@ -22,22 +22,24 @@ For this visualisation I took the base stats from generation 1 Pokemon and tried
 
 For this level I took more of an artistic approach in presenting Mario characters based on data from the Super Mario Bros world. The pixels making up the images are enemies and items from Super Mario Bros, and the relative presence of the various enemies/items are based on their prominence in the Super Mario Bros worlds (i.e. those enemies/items that are more common are more prominent in the pixels).
 
-**Mario**
+
 
 <p align="center">
   <img src="data_viz\level_2\retro_modern_mario_bros\mario_pixelArt.png" width="100%"/>
 </p>
-**Luigi**
+
+
+
 
 <p align="center">
   <img src="data_viz\level_2\retro_modern_mario_bros\luigi_pixelArt.png" width="100%"/>
 </p>
-**Peach**
+
 
 <p align="center">
   <img src="data_viz\level_2\retro_modern_mario_bros\peach_pixelArt.png" width="100%"/>
 </p>
-**Bowser**
+
 
 <p align="center">
   <img src="data_viz\level_2\retro_modern_mario_bros\bowser_pixelArt.png" width="100%"/>
