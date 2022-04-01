@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Triforce'; 
+    src: url('Triforce.ttf');
+}
+
+@font-face {
+    font-family: 'RocknRollOne-Regular'; 
+    src: url('RocknRollOne-Regular.ttf');
+}
+
+body {
+    margin: 0.5em;
+    overflow-x: hidden;
+    text-align: center;
+    font-family: "RocknRollOne-Regular";
+    font-size: 0.75em;
+	background-color: #fffaf0;
+}
+
+h1 {
+    margin: 0.5em;
+    overflow-x: hidden;
+    text-align: center;
+    font-family: "Triforce";
+    font-size: 4em;
+}
+
+h2 {
+    margin: 1em;
+    overflow-x: hidden;
+    text-align: center;
+    font-family: "Triforce";
+    font-size: 2em;
+}
+
