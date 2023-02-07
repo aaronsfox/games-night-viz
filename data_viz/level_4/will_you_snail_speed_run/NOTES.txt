@@ -1,0 +1,11 @@
+> Plot speed runs of game - infinitely easy mode has most data
+> Perhaps a histogram of all results
+> Some bar plots of the top results (from each difficulty level)
+	>> Use the snail sprite and have the bars as a trail from it
+> Replicate the neon cyberpunk style of the game
+	>> Consider building bars or background panels in areas?
+> Replicate the squid AI shape in the background using same cyberpunk style applied to lines and markers for eyes
+
+> Speed run this yourself - time and record attempt
+
+Glowing bars style: https://matplotlib.org/matplotblog/posts/matplotlib-cyberpunk-style/
